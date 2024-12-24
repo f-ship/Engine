@@ -1,0 +1,13 @@
+
+[submodule "Client"]
+	path = Client
+	url = https://github.com/f-ship/Engine.Client
+[submodule "Sample"]
+	path = Sample
+	url = https://github.com/f-ship/Engine.Sample
+[submodule "KotlinGen"]
+	path = KotlinGen
+	url = https://github.com/f-ship/Engine.KotlinGen
+[submodule "Server"]
+	path = Server
+	url = https://github.com/f-ship/Engine.Server
